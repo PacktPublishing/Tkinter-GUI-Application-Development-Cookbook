@@ -6,6 +6,7 @@ This is the code repository for [Tkinter GUI Application Development Cookbook](h
 ## About the Book
 
 Tkinter GUI Application Development Cookbook starts with an overview of Tkinter classes and at the same time provides recipes for basic topics, such as layout patterns and event handling. Next, we cover how to develop common GUI patterns, such as entering and saving data, navigating through menus and dialogs, and performing long-running actions in the background.You can then make your apps leverage network resources effectively and perform graphical operations on a canvas and related tasks such as detecting collisions between items. Finally, this book covers using themed widgets, an extension of Tk widgets that have a more native look and feel. Finally, this book covers using the canvas and themed widgets.
+
 By the end of the book, you will have an in-depth knowledge of Tkinter classes, and will know how to use them to build efficient and rich GUI applications.
 
 ## Instructions and Navigations
