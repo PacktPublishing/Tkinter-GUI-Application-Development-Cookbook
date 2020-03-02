@@ -18,7 +18,7 @@ class App(tk.Tk):
 
     def print_info(self):
         for label, entry in self.widgets:
-            print("{} = {}".format(label.cget("text"), "=", entry.get()))
+            print("{} = {}".format(label.cget("text"), entry.get()))
 
 if __name__ == "__main__":
     app = App()
